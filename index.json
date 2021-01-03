@@ -1,6 +1,6 @@
-{{
-[
-"user": hello
+{
+
+"user": "hello"
 "password" :123
-]
-}}
+  "url" :"ninza.com"
+}
